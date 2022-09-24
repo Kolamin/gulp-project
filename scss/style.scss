@@ -1,0 +1,13 @@
+@import 'normalize.scss';
+
+// == Mixins ==
+
+@mixin font-lato{
+  font-family: 'Lato', sans-serif;
+}
+
+@mixin font-monserrat{
+  font-family: 'Montserrat', sans-serif;
+}
+
+//== Mixins ==
